@@ -3,4 +3,6 @@ This repository contains all the required resources and the essential tools to t
 
 This project is intended to teach the students of the FoxoGyan- The Mozilla Club of GGITS, the basics and nuances of GitHub- its essentialities and functionalities.
 
+Thank you for your continued support.
+
 May the -force be with you!
